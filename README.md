@@ -1,1 +1,1 @@
-# OCJA_school_study
+# OCJA 공부 
